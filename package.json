@@ -6,9 +6,9 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon src/serve.ts"
   },
-  "author": "",
+  "author": "Weldson Carlos",
   "license": "ISC",
-  "description": "",
+  "description": "An simple API to get exchange values between two coins, usigin web scraping",
   "dependencies": {
     "@types/express": "^5.0.0",
     "cors": "^2.8.5",
